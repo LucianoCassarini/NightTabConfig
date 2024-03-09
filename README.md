@@ -12,3 +12,7 @@ https://github.com/LucianoCassarini/NightTabConfig/assets/65756460/1e728dd2-874c
  3. Clonar este repositorio en su pc.
  4. Hacer click a "Import from file" y seleccionar el archivo Json que se encuentra en este repositorio.
  5. Hacer clck en "Import".
+
+
+https://github.com/LucianoCassarini/NightTabConfig/assets/65756460/ec53a448-668a-4825-9193-8a6861fc4d6a
+
